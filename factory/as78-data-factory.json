@@ -1,0 +1,9 @@
+{
+	"name": "as78-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6cfaf3f0-263e-435a-bebb-c597029511aa",
+		"tenantId": "5c02ca0e-8734-410d-b49d-e8b63df859f6"
+	}
+}
